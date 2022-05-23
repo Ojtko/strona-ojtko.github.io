@@ -97,6 +97,10 @@ h1{
     }
   
   @media screen and (max-width:800px) {
+      #logo{
+          height:5%;
+          font-size:25pt;
+      }
     #menu1 {
         top:5%;
         left:10%;
